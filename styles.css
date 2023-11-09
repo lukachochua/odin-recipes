@@ -1,0 +1,32 @@
+* {
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+div {
+    color:aqua;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
+a {
+    color: rgb(148, 155, 155);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+ul, li {
+    list-style-type: none;
+  }
+  
+li {
+display: inline;
+}
