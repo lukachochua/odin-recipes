@@ -95,7 +95,7 @@ a {
 /* Main area styles */
 
 .photo-grid-container {
-  margin: 10px 0 10px 0;
+  margin-top: 10px;
   display: flex;
   justify-content: center;
 }
@@ -109,13 +109,13 @@ a {
   flex-direction: row;
 }
 
-.photo-grid-item {
-  border: 1px solid #fff;
+/* .photo-grid-item {
   width: 300px;
   height: 300px;
-}
+} */
 
 img {
+  border: 1px solid #fff;
   width: 300px;
   height: 300px;
 }
